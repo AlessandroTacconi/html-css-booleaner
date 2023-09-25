@@ -67,6 +67,7 @@ th{
 
 .frow {
     background-color: #20a9e5;
+    color: white;
 }
 
 .sfrow {
@@ -79,4 +80,13 @@ footer{
 
 h3{
     color: #808080;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.potrebbero-interessarti {
+    position: absolute;
+    color: white;
+    margin: 7px;
+    font-size: 20px;
 }
