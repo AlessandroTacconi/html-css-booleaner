@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: #4ea0ff;
+    height: 80px;
+    background-image: url(img/pattern.png);
+    background-size: 25%;
+}
+
+.img1 {
+    height: 45px;
+    margin-top: 25px
+}
