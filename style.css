@@ -52,6 +52,10 @@ h1 {
     margin-bottom: 15px;
 }
 
+.hilight {
+background-color: #ffff00;
+}
+
 table {
     table-layout: fixed ;
     width: 100% ;
